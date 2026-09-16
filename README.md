@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>I'm a Computer Science graduate and a Java Backend Developer focused on building scalable and maintainable applications with Java and Spring Boot.<br><br>🔹 Currently improving my skills in Spring Boot, Spring Security, JPA/Hibernate, REST APIs, SQL, and testing.<br>🔹 Interested in backend architecture, clean code, database design, and scalable systems.<br>🔹 Building practical projects to strengthen my software engineering skills and gain real-world experience.<br>🔹 Always learning, experimenting, and turning what I learn into working projects.<br><br>🚀 Currently focused on: Java • Spring Boot • Spring Security • PostgreSQL • Docker • Git<br>
+I'm a Computer Science graduate and a Java Backend Developer focused on building scalable and maintainable applications with Java and Spring Boot.<br><br>🔹 Currently improving my skills in Spring Boot, Spring Security, JPA/Hibernate, REST APIs, SQL, and testing.<br>🔹 Interested in backend architecture, clean code, database design, and scalable systems.<br>🔹 Building practical projects to strengthen my software engineering skills and gain real-world experience.<br>🔹 Always learning, experimenting, and turning what I learn into working projects.<br><br>🚀 Currently focused on: Java • Spring Boot • Spring Security • PostgreSQL • Docker • Git<br>
 
 
 ## 🌐 Socials:
