@@ -7,10 +7,6 @@ I'm a Computer Science graduate and a Java Backend Developer focused on building
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AKeremT&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AKeremT&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AKeremT&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=AKeremT&icon=0&color=0)](https://visitcount.itsvg.in)
